@@ -39,7 +39,7 @@ const Contact = () => {
                 <div>
                   <p className="text-white text-sm font-medium">LinkedIn</p>
                   <a
-                    href="https://linkedin.com/in/your-profile" // Replace with your LinkedIn
+                    href="https://www.linkedin.com/in/anshitakoshta/" // Replace with your LinkedIn
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-gray-300 text-base hover:text-indigo-400 transition-colors"
@@ -53,7 +53,7 @@ const Contact = () => {
                 <div>
                   <p className="text-white text-sm font-medium">GitHub</p>
                   <a
-                    href="https://github.com/your-profile" // Replace with your GitHub
+                    href="https://github.com/Riyaa-k" // Replace with your GitHub
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-gray-300 text-base hover:text-indigo-400 transition-colors"
