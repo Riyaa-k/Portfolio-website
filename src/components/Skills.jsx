@@ -13,19 +13,19 @@ const Skills = () => {
   }, [])
 
   const skills = [
-    { name: 'HTML 5', img: 'src/assets/img/html-5.png' },
-    { name: 'CSS 3', img: 'src/assets/img/css-3.png' },
-    { name: 'Javascript', img: 'src/assets/img/js.png' },
-    { name: 'Angular', img: 'src/assets/img/angular.png' },
-    {name: 'React', img: 'src/assets/img/react.png' },
-    { name: 'Typescript', img: 'src/assets/img/typescript.png' },
-    { name: 'Python', img: 'src/assets/img/ppython.jpg' },
+    { name: 'HTML 5', img: '/assets/img/html-5.png' },
+    { name: 'CSS 3', img: '/assets/img/css-3.png' },
+    { name: 'Javascript', img: '/assets/img/js.png' },
+    { name: 'Angular', img: '/assets/img/angular.png' },
+    {name: 'React', img: '/assets/img/react.png' },
+    { name: 'Typescript', img: '/assets/img/typescript.png' },
+    { name: 'Python', img: '/assets/img/ppython.jpg' },
     
-    { name: 'Git', img: 'src/assets/img/git.png' },
-    { name: 'Node Js', img: 'src/assets/img/node.png' },
-    { name: 'MongoDB', img: 'src/assets/img/mongo.png' },
-    { name: 'Bootstrap', img: 'src/assets/img/bootstap.png' },
-    { name: 'MYSQL', img: 'src/assets/img/mysql.png' },
+    { name: 'Git', img: '/assets/img/git.png' },
+    { name: 'Node Js', img: '/assets/img/node.png' },
+    { name: 'MongoDB', img: '/assets/img/mongo.png' },
+    { name: 'Bootstrap', img: '/assets/img/bootstap.png' },
+    { name: 'MYSQL', img: '/assets/img/mysql.png' },
 
   ]
 
