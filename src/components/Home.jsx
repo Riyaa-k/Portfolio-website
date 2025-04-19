@@ -28,7 +28,7 @@ const Home = () => {
       <div className="container mx-auto px-4">
         <div className="intro max-w-[540px] mx-auto text-center">
           <img 
-            src="src\assets\img\final.png" 
+            src="/assets/img/final.png" 
             alt="Avatar"
             className="w-1/2 mx-auto mb-8 hover:-translate-y-2 transition-transform duration-500"
           />
