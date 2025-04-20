@@ -18,7 +18,7 @@ const Experience = () => {
     {
       date: 'June 2024 - Present',
       title: 'Software Developer',
-      text: 'SIM Advisory',
+      text: 'BXP SUPPORT AND SOLUTIONS PRIVATE LIMITED',
       details:
         'A skilled developer built interactive Angular UIs and integrated REST APIs with microservices to optimize performance for client projects. They also designed responsive layouts in Figma, processed data with Python, and managed Git for team collaboration.',
     },
