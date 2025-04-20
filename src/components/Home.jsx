@@ -32,6 +32,10 @@ const Home = () => {
             alt="Avatar"
             className="w-1/2 mx-auto mb-8 hover:-translate-y-2 transition-transform duration-500"
           />
+        <p className="text-sm flex items-center justify-center text-white mb-4">
+          Hello <img src="/assets/img/Hello.gif" alt="Hello" className="inline mx-1" width="20" />, I am
+        </p>
+
           <h1 className="text-5xl md:text-[2.25rem] font-semibold text-white mb-2">
             Anshita <span className="text-[#146c94]">Koshta</span>
           </h1>

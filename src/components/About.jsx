@@ -82,14 +82,14 @@ const About = () => {
                 <p className="text-sm sm:text-base md:text-lg mb-4 text-left leading-relaxed">
                   Full-Stack Developer with 1+ years of experience in Angular, React JS, and Node.js. I design slick, responsive UIs in Figma and wire up REST APIs seamlessly. Python and Git fuel my scalable, game-changing solutions.
                 </p>
-                <a
+                {/* <a
                   href="src\assets\Anshita Koshta Software Developer.pdf"
                   target="_blank"
                   className="inline-block bg-[#19a7ce] text-black px-6 py-2 md:px-8 md:py-3 rounded-[1.25rem] hover:bg-yellow-400 
                   transition-colors duration-300 hover:scale-100 active:scale-80 text-center w-full sm:w-auto"
                 >
                   Download CV
-                </a>
+                </a> */}
               </div>
 
               <div className="about-skills w-full md:w-3/6 p-4 md:p-6 rounded-[1.25rem] shadow-lg">
