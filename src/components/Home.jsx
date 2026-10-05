@@ -100,7 +100,7 @@ const Home = () => {
               width="22"
               height="22"
             />
-            , I am
+            , I is
           </motion.p>
 
           <motion.h1
